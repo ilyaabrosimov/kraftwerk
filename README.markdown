@@ -27,6 +27,4 @@ This project analyzes coupon acceptance behavior using the `coupons.csv` dataset
 ## Jupyter Notebook
 Explore the full analysis, including code, visualizations, and detailed insights, in the Jupyter Notebook:
 
-[View the Jupyter Notebook](https://github.com/username/coupon-analysis/blob/main/prompt.ipynb)
-
-*Note*: Replace the placeholder link with the actual GitHub repository URL hosting the notebook.
+[View the Jupyter Notebook](https://github.com/ilyaabrosimov/kraftwerk/blob/main/prompt.ipynb)
